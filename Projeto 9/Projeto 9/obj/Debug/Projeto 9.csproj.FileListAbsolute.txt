@@ -1,0 +1,11 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\bin\Debug\Projeto 9.exe.config
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\bin\Debug\Projeto 9.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\bin\Debug\Projeto 9.pdb
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto 9.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto_9.FMRalunos.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto_9.FMRmenu.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto_9.FRMcursos.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto_9.Properties.Resources.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto 9.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto 9.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 9\Projeto 9\obj\Debug\Projeto 9.pdb
