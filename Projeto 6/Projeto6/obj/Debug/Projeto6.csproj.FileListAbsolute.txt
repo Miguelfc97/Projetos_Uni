@@ -1,0 +1,18 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.exe.config
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.fmrAlunos.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.Properties.Resources.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\bin\Debug\Projeto6.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto6\Projeto6\obj\Debug\Projeto6.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\bin\Debug\Projeto6.exe.config
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\bin\Debug\Projeto6.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\bin\Debug\Projeto6.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.fmrAlunos.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.Properties.Resources.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 6\Projeto6\obj\Debug\Projeto6.csproj.GenerateResource.Cache
