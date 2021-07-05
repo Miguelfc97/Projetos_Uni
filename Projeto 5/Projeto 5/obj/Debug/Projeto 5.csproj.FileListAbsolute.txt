@@ -1,0 +1,9 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\bin\Debug\Projeto 5.exe.config
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\bin\Debug\Projeto 5.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\bin\Debug\Projeto 5.pdb
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto 5.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto_5.Form1.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto_5.Properties.Resources.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto 5.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto 5.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 5\Projeto 5\obj\Debug\Projeto 5.pdb
