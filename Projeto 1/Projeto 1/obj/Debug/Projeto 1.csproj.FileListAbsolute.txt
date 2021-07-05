@@ -1,0 +1,13 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe.config
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.pdb
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.pdb
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe.config
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.exe
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\bin\Debug\Projeto 1.pdb
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csproj.AssemblyReference.cache
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.exe
+F:\Visual Studio 2013\Projects\Projeto 1\Projeto 1\obj\Debug\Projeto 1.pdb
