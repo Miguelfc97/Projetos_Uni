@@ -1,0 +1,9 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 2\Projeto 2\bin\Debug\Projeto 2.exe.config
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\bin\Debug\Projeto 2.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\bin\Debug\Projeto 2.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto 2.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto_2.Form1.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto_2.Properties.Resources.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto 2.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto 2.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\Projeto 2\Projeto 2\obj\Debug\Projeto 2.pdb
