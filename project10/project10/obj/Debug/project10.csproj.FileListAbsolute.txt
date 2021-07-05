@@ -1,0 +1,19 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\project10\project10\bin\Debug\project10.exe.config
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\bin\Debug\project10.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\bin\Debug\project10.pdb
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.Form1.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.Properties.Resources.resources
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.exe
+\\edu\alunos$\11078517\My Documents\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.pdb
+F:\Visual Studio 2013\Projects\project10\project10\bin\Debug\project10.exe.config
+F:\Visual Studio 2013\Projects\project10\project10\bin\Debug\project10.exe
+F:\Visual Studio 2013\Projects\project10\project10\bin\Debug\project10.pdb
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.csproj.AssemblyReference.cache
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.Form1.resources
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.Properties.Resources.resources
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.csproj.GenerateResource.cache
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.exe
+F:\Visual Studio 2013\Projects\project10\project10\obj\Debug\project10.pdb
