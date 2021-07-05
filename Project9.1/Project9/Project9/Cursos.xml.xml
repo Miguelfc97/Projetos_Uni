@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImportExport xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <a>
+    <Aluno>
+      <numero>1</numero>
+      <nome>A1</nome>
+    </Aluno>
+    <Aluno>
+      <numero>2</numero>
+      <nome>A2</nome>
+    </Aluno>
+    <Aluno>
+      <numero>3</numero>
+      <nome>A3</nome>
+    </Aluno>
+  </a>
+  <c>
+    <Curso>
+      <codigo>1</codigo>
+      <descricao>Um</descricao>
+    </Curso>
+    <Curso>
+      <codigo>2</codigo>
+      <descricao>Dois</descricao>
+    </Curso>
+    <Curso>
+      <codigo>3</codigo>
+      <descricao>Tres</descricao>
+    </Curso>
+  </c>
+</ImportExport>
