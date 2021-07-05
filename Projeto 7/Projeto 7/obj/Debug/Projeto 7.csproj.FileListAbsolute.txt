@@ -1,0 +1,19 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.exe.config
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.pdb
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto_7.fmrmuseu.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto_7.Properties.Resources.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.pdb
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.exe.config
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.exe
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\bin\Debug\Projeto 7.pdb
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.csprojResolveAssemblyReference.cache
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto_7.fmrmuseu.resources
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto_7.Properties.Resources.resources
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.csproj.CoreCompileInputs.cache
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.exe
+E:\Visual Studio 2013\Projects\Projeto 7\Projeto 7\obj\Debug\Projeto 7.pdb
