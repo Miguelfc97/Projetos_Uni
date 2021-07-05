@@ -1,0 +1,9 @@
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\bin\Debug\Projeto 3.exe.config
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\bin\Debug\Projeto 3.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\bin\Debug\Projeto 3.pdb
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto 3.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto_3.FRMcontas.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto_3.Properties.Resources.resources
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto 3.csproj.GenerateResource.Cache
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto 3.exe
+\\edu\alunos$\11078517\my documents\visual studio 2013\Projects\Projeto 3\Projeto 3\obj\Debug\Projeto 3.pdb
